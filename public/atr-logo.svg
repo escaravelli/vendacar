@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="1000" version="1.1" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -52.362)">
+  <g transform="matrix(1.1111 0 0 1.1111 -55.556 -2.4847)">
+   <path d="m450 400 200 200h-150v100h200v-200l-200-200z" fill="#ed3237"/>
+   <path d="m250 400 200 200h-150v100h200v-200l-200-200z" fill="#000"/>
+   <path d="m650 400 200 200h-150v100h200v-200l-200-200z" fill="#000"/>
+  </g>
+  <text x="200" y="902.36218" fill="#ed3237" font-family="sans-serif" font-size="144px" font-weight="bold" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="200" y="902.36218">AUTOMÓVEIS</tspan></text>
+ </g>
+</svg>

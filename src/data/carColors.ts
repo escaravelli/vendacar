@@ -1,0 +1,22 @@
+export const carColors = [
+  { name: 'Preto', value: '#000000' },
+  { name: 'Branco', value: '#FFFFFF' },
+  { name: 'Prata', value: '#C0C0C0' },
+  { name: 'Cinza', value: '#808080' },
+  { name: 'Vermelho', value: '#FF0000' },
+  { name: 'Azul', value: '#0000FF' },
+  { name: 'Verde', value: '#008000' },
+  { name: 'Amarelo', value: '#FFFF00' },
+  { name: 'Marrom', value: '#8B4513' },
+  { name: 'Bege', value: '#F5F5DC' },
+  { name: 'Dourado', value: '#FFD700' },
+  { name: 'Vinho', value: '#800000' },
+  { name: 'Laranja', value: '#FFA500' },
+  { name: 'Roxo', value: '#800080' },
+  { name: 'Verde Musgo', value: '#006400' },
+  { name: 'Azul Marinho', value: '#000080' },
+  { name: 'Grafite', value: '#404040' },
+  { name: 'Bronze', value: '#CD7F32' },
+  { name: 'Champagne', value: '#F7E7CE' },
+  { name: 'Prata Fosco', value: '#A9A9A9' }
+];
